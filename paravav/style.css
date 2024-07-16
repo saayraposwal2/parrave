@@ -1,0 +1,106 @@
+*{
+    margin:0;
+    padding: 0;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    background-color: black;
+}
+
+.bekar{
+    top: 0;
+    left: 0;
+    position: absolute;
+}
+
+.bekar a{
+    text-decoration: none;
+    color: rgb(207, 94, 19);
+    font-family: sans-serif;
+    font-weight: 500;
+    font-size: 50px;
+}
+
+.bekar img{
+    width: 20%;
+    margin-top: 10px;
+    top: 0;
+    left: 0;
+    position: absolute;
+} 
+
+.qqq{
+    display: inline;  
+}
+
+.qqq li{
+    display: inline;
+    margin: 100px 50px 20px 20px;
+}
+
+.qqq li a{
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.blegh{
+    display: inline-flex;
+}
+
+.bb{
+    color: white;
+    background-color: rgb(207, 94, 19);
+    border-radius: 4px;
+    margin: 10px 5px;
+    width: 100px;
+    height: 40px;
+}
+
+.no{
+    background-color: black;
+    color: white;
+    position: fixed;
+}
+
+.meow{
+    height: 500px;
+    background-repeat: no-repeat ;
+    color: rgb(207, 94, 19);
+    font-size: xx-large;
+    padding: 50px;
+}
+
+.meow img{
+    float: right;
+    width: 25%;
+    margin-right: 150px;
+}
+
+.abc{
+    float: left;
+    margin: 50px 10px 10px 10px;
+}
+
+.abc span{
+    margin: 20px;
+}
+
+.bra{
+    display: flex;
+    background-color: rgb(214, 114, 43);
+}
+
+.bra div{
+    margin: 7%;
+}
+
+.bra div p{
+    font-weight: 500px;
+    font-size: x-large;
+    color: white;
+}
